@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+mlproject/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+dataset/
+data/
+*.zip
+
+# Model files
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
